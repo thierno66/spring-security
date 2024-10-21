@@ -7,7 +7,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import lombok.AllArgsConstructor;
-import sn.edu.uadb.DTO.InscriptionWithRole;
+import sn.edu.uadb.spring_security.DTO.InscriptionWithRole;
 import sn.edu.uadb.spring_security.entite.Role;
 import sn.edu.uadb.spring_security.entite.User;
 import sn.edu.uadb.spring_security.exception.UserNotFoundExeception;

@@ -2,7 +2,7 @@ package sn.edu.uadb.spring_security.service;
 
 import java.util.List;
 
-import sn.edu.uadb.DTO.InscriptionWithRole;
+import sn.edu.uadb.spring_security.DTO.InscriptionWithRole;
 import sn.edu.uadb.spring_security.entite.User;
 
 public interface UserServiceInterface {

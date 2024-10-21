@@ -13,7 +13,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
 import lombok.AllArgsConstructor;
-import sn.edu.uadb.DTO.UserDto;
+import sn.edu.uadb.spring_security.DTO.UserDto;
 
 @Service
 @AllArgsConstructor

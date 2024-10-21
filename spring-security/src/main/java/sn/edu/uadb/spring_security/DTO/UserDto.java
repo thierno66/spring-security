@@ -1,4 +1,4 @@
-package sn.edu.uadb.DTO;
+package sn.edu.uadb.spring_security.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

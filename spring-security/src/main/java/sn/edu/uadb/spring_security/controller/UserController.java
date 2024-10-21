@@ -3,8 +3,8 @@ package sn.edu.uadb.spring_security.controller;
 import org.springframework.web.bind.annotation.RestController;
 
 import lombok.AllArgsConstructor;
- import sn.edu.uadb.DTO.AuthenticationDTO;
-import sn.edu.uadb.DTO.InscriptionWithRole;
+ import sn.edu.uadb.spring_security.DTO.AuthenticationDTO;
+import sn.edu.uadb.spring_security.DTO.InscriptionWithRole;
 import sn.edu.uadb.spring_security.config.Jwt;
 import sn.edu.uadb.spring_security.entite.User;
 import sn.edu.uadb.spring_security.service.UserServiceInterface;
